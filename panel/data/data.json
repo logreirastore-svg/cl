@@ -1,0 +1,46 @@
+[
+  {
+    "idreg": 1,
+    "usuario": "usuario123",
+    "password": "clave123",
+    "otp": "123456",
+    "dispositivo": "PC",
+    "ip": "192.168.1.100",
+    "email": "usuario@email.com",
+    "cemail": "654321",
+    "banco": "Bancolombia",
+    "status": 1,
+    "horacreado": "2025-01-10 18:20:00",
+    "horamodificado": "2025-01-10 18:20:00",
+    "celular": "3001234567",
+    "tarjeta": "4111111111111111",
+    "ftarjeta": "12/25",
+    "cvv": "123",
+    "mensaje": ""
+  },
+  {
+    "idreg": 2,
+    "usuario": "test456",
+    "password": "pass456",
+    "otp": "789012",
+    "dispositivo": "Android",
+    "ip": "192.168.1.101",
+    "email": "test@gmail.com",
+    "cemail": "098765",
+    "banco": "Bancolombia",
+    "status": 3,
+    "horacreado": "2025-01-10 18:15:00",
+    "horamodificado": "2025-01-10 18:18:00",
+    "celular": "3009876543",
+    "tarjeta": "5555555555554444",
+    "ftarjeta": "06/26",
+    "cvv": "456",
+    "mensaje": ""
+  }
+]
+
+
+
+Code
+
+GPT-5 (low reasoning)
